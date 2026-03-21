@@ -15,10 +15,17 @@ Atualmente, estou trabalhando em projetos que envolvem organização, performanc
 ---
 
 ### 🧠 Tecnologias e Ferramentas
-- Linguagens: Python, Html, Css, Node.JS
-- Ferramentas: Git, GitHub, VS Code
+💻 Tecnologias:
+- Python
+- JavaScript (Node.js)
+- HTML & CSS
+  
 
----
+⚙️ Ferramentas:
+- Git & GitHub
+- VS Code
+- Ferramentas: Git, GitHub, VS Code
+  
 
 ### 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HikariLucky&show_icons=true&theme=dark)
