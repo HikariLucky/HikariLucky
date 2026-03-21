@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**HikariLucky/HikariLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em aprendizado contínuo e construção de soluções práticas. Tenho interesse em tecnologia, automação, segurança e desenvolvimento de sistemas modernos.
 
-Here are some ideas to get you started:
+Atualmente, estou trabalhando em projetos que envolvem organização, performance e exploração de novas ferramentas, sempre buscando evoluir minhas habilidades técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+- 🔭 Atualmente trabalhando em projetos próprios
+- 🌱 Aprendendo mais sobre desenvolvimento, automação e sistemas
+- 👯 Aberto a colaborações em projetos interessantes
+- 💬 Pode me perguntar sobre tecnologia, código e ideias
+
+---
+
+### 🧠 Tecnologias e Ferramentas
+- Linguagens: Python, Html, Css, Node.JS
+- Ferramentas: Git, GitHub, VS Code
+
+---
+
+### 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HikariLucky&show_icons=true&theme=dark)
+
+---
+
+### ⚡ Objetivo
+Evoluir constantemente como desenvolvedor, criar soluções úteis e transformar ideias em projetos reais.
