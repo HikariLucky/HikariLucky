@@ -20,6 +20,7 @@ Atualmente, estou trabalhando em projetos que envolvem organização, performanc
 - JavaScript (Node.js)
 - HTML & CSS
 - Java
+- C e C#
   
 
 ⚙️ Ferramentas:
