@@ -19,6 +19,7 @@ Atualmente, estou trabalhando em projetos que envolvem organização, performanc
 - Python
 - JavaScript (Node.js)
 - HTML & CSS
+- Java
   
 
 ⚙️ Ferramentas:
