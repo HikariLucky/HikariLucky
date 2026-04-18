@@ -36,7 +36,7 @@ Um site moderno com animações fluidas em React, Framer Motion e GSAP, apresent
 ## 📫 Contato
 
 - 📧 **Email:** vxhikari_yt16@hotmail.com
-- 💼 **LinkedIn:** [in/kauã-oliveira](https://linkedin.com/in/kauã-oliveira)
+- 💼 **LinkedIn:** [in/kauã-oliveira](https://linkedin.com/in/kauã-oliveira-43b07b268)
 - 🐙 **GitHub:** [@HikariLucky](https://github.com/HikariLucky)
 - 💬 **WhatsApp:** (41) 98777-7497
 
