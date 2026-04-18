@@ -1,38 +1,56 @@
-## Hi there 👋
+# 👋 Olá, eu sou Kauã Oliveira
 
-Sou um desenvolvedor focado em aprendizado contínuo e construção de soluções práticas. Tenho interesse em tecnologia, automação, segurança e desenvolvimento de sistemas modernos.
+## 💻 Desenvolvedor Full Stack
 
-Atualmente, estou trabalhando em projetos que envolvem organização, performance e exploração de novas ferramentas, sempre buscando evoluir minhas habilidades técnicas.
-
----
-
-### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em projetos próprios
-- 🌱 Aprendendo mais sobre desenvolvimento, automação e sistemas
-- 👯 Aberto a colaborações em projetos interessantes
-- 💬 Pode me perguntar sobre tecnologia, código e ideias
+Apaixonado por tecnologia e transformar ideias em projetos reais. Estudante de Desenvolvimento de Sistemas focado em criar soluções inteligentes e escaláveis.
 
 ---
 
-### 🧠 Tecnologias e Ferramentas
-💻 Tecnologias:
-- Python
-- JavaScript (Node.js)
-- HTML & CSS
-- Java
-- C e C#
-  
+## 🚀 Meu Portfolio
 
-⚙️ Ferramentas:
-- Git & GitHub
-- VS Code
-- Ferramentas: Git, GitHub, VS Code
-  
+🔗 **[portfolio-kaua-theta.vercel.app](https://portfolio-kaua-theta.vercel.app)**
 
-### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HikariLucky&show_icons=true&theme=dark)
+Um site moderno com animações fluidas em React, Framer Motion e GSAP, apresentando meus projetos e habilidades.
 
 ---
 
-### ⚡ Objetivo
-Evoluir constantemente como desenvolvedor, criar soluções úteis e transformar ideias em projetos reais.
+## 🛠️ Tecnologias
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HikariLucky&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikariLucky&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contato
+
+- 📧 **Email:** vxhikari_yt16@hotmail.com
+- 💼 **LinkedIn:** [in/kauã-oliveira](https://linkedin.com/in/kauã-oliveira)
+- 🐙 **GitHub:** [@HikariLucky](https://github.com/HikariLucky)
+- 💬 **WhatsApp:** (41) 98777-7497
+
+---
+
+## 🌟 Destaques do Portfolio
+
+- ✨ Animações com Framer Motion e GSAP
+- 🫧 Bolhas flutuantes animadas
+- 📱 Design responsivo
+- 🎨 Glassmorphism na navbar
+- 📊 Barras de progresso animadas
+- 🎯 Scroll reveal effects
+
+---
+
+*"Acredito que crescer não é só evoluir tecnicamente, mas também entender a si mesmo."*
